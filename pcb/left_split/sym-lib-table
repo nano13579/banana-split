@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "nicenano")(type "Legacy")(uri "C:/Users/ghata/myProjects/banana-split/pcb/nice-nano-kicad-master/nice_nano.lib")(options "")(descr ""))
+)
