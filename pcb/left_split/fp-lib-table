@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "scotto")(type "KiCad")(uri "C:/Users/ghata/myProjects/banana-split/pcb/nice-nano-kicad-master/footprints/ScottoKeebs_MCU.pretty")(options "")(descr ""))
+  (lib (name "kailh")(type "KiCad")(uri "C:/Users/ghata/myProjects/banana-split/pcb/nice-nano-kicad-master/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "button_switches")(type "KiCad")(uri "C:/Users/ghata/myProjects/banana-split/pcb/nice-nano-kicad-master/Buttons_Switches_THT.pretty")(options "")(descr ""))
+  (lib (name "stabs")(type "KiCad")(uri "C:/Users/ghata/myProjects/banana-split/pcb/nice-nano-kicad-master/footprints/ScottoKeebs_Stabilizer.pretty")(options "")(descr ""))
+  (lib (name "kailhv2")(type "KiCad")(uri "C:/Users/ghata/myProjects/banana-split/pcb/nice-nano-kicad-master/kicad-libraries/footprints/CherryMX_KailhSocket.pretty")(options "")(descr ""))
+  (lib (name "kailhv3")(type "KiCad")(uri "C:/Users/ghata/myProjects/banana-split/pcb/nice-nano-kicad-master/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "kailhv4")(type "KiCad")(uri "C:/Users/ghata/myProjects/banana-split/pcb/nice-nano-kicad-master/MX_V2/MX_Hotswap.pretty")(options "")(descr ""))
+)
