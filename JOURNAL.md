@@ -42,7 +42,7 @@ So due to some incorrect file paths I had to abandon hierarchical sheets :(( I e
 
 ~ 3 hours
 
-RAAAHH got started on pcb finally. I finished the left side first, aligning everything from the dxf file given from kle. I’ve heard a lot of ppl mention the use of ground pours, especially for keeb pcbs. However, since they are heat sinks, it’ll probably mess with me when I go to solder my tht components, so I opted to just wire the whole thing. I ended up actually sacrificing keys for a minimalist design. So sad. I may add acrylic to make the section with mcu visible, so there isn’t any meaningless gap.
+RAAAHH got started on pcb finally. I finished the left side first, aligning everything from the dxf file given from kle. I’ve heard a lot of ppl mention the use of ground pours, especially for keeb pcbs. However, since they are heat sinks, it’ll probably mess with me when I go to solder my tht components, so I opted to just fully route the whole thing. I ended up actually sacrificing keys for a minimalist design. So sad. I may add acrylic to make the section with mcu visible, so there isn’t any meaningless gap.
 
 # July 7
 
